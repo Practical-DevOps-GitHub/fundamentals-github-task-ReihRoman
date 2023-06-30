@@ -1,0 +1,22 @@
+[1mdiff --git a/fundamentals-github-task-ReihRoman b/fundamentals-github-task-ReihRoman[m
+[1mnew file mode 160000[m
+[1mindex 0000000..9051cff[m
+[1m--- /dev/null[m
+[1m+++ b/fundamentals-github-task-ReihRoman[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 9051cffe0c19bc7cf2073ebc89c06196cba2213c[m
+[1mdiff --git a/pull_request_template.md b/pull_request_template.md[m
+[1mdeleted file mode 100644[m
+[1mindex a6618b7..0000000[m
+[1m--- a/pull_request_template.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,9 +0,0 @@[m
+[31m-## Describe your changes[m
+[31m-[m
+[31m-## Issue ticket number and link[m
+[31m-[m
+[31m-## Checklist before requesting a review[m
+[31m-- [ ] I have performed a self-review of my code[m
+[31m-- [ ] If it is a core feature, I have added thorough tests.[m
+[31m-- [ ] Do we need to implement analytics?[m
+[31m-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.[m
