@@ -16,7 +16,7 @@ class ScriptTest < Test::Unit::TestCase
   end
   
   def test_token_present
-    actual = ENV['PAT'] =~ /^ghp_\w{36}$/
+    actual = @secrets_token =~ /^ghp_\w{36}$/
     assert_not_nil(actual, "Secret with name 'PAT' with valid personal access token doesn't exist")
   end
 
